@@ -4,7 +4,7 @@ Using Supervised Machine Learning, Python, and Jupyter Notebook to predict credi
 
 ## Overview of Project
 
-An analysis of borrower data to predict credit risk. Various Machine Learning alogrithms are utilized to determine the best fit for predicting credit risk.
+An analysis of borrower data to predict credit risk. Various Machine Learning alogrithms are utilized to determine the best fit.
 
 ### Purpose
 
@@ -81,5 +81,5 @@ Some data points to consider are:
 
 ## Summary
 
-The most accurate model in predicting credit risk is the Easy Ensemble Classifier. It successfully predicted 93 high risk customers. Additionally, the 983 false positives that may require extra review is the best result of all the models. Additionally, there were only 8 customers that are truly high risk that was predicted to be low risk. So for a 93.17% accuracy score, 9% precision score, and 92% recall score, the Easy Ensemble Classifier would be the recommended machine learning algorithm. This model has the best trade-off between sensitivity and precision.
+Although all the models show weak precision scores, the most accurate model in predicting credit risk is the Easy Ensemble Classifier. It successfully predicted 93 high risk customers. Additionally, the 983 false positives that may require extra review is the best result of all the models. Additionally, there were only 8 customers that are truly high risk that was predicted to be low risk. So for a 93.17% accuracy score, 9% precision score, and 92% recall score, the Easy Ensemble Classifier would be the recommended machine learning algorithm. This model has the best trade-off between sensitivity and precision.
 
